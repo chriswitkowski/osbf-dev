@@ -1,0 +1,42 @@
+github: [metadata]
+encoding: UTF-8
+kramdown:
+  input: GFM
+  hard_wrap: false
+future: true
+jailed: false
+plugins:
+  - jekyll-remote-theme
+gfm_quirks: paragraph_end
+title: Our South Bay Family
+description: A site to share our family adventures
+
+# site settings
+title: Our South Bay Family
+description: A creative outlet for our family's digital, virtual and live musings.
+email: info@oursouthbayfamily.com
+baseurl: 
+author: Chris Witkowski
+street_address:
+city:
+state:
+zip_code:
+country:
+phone:
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings
+500px_url:
+facebook_url: https://www.facebook.com/oursouthbayfamily/
+github_url:
+gitlab_url: 
+googleplus_url:
+instagram_url: https://www.instagram.com/oursouthbayfamily/
+linkedin_url: 
+pinterest_url: https://www.pinterest.com/oursouthbayfam/
+slack_url:
+twitter_url: https://www.twitter.com/oursouthbayfam
+youtube_url: https://www.youtube.com/channel/UCztqDUNin-BGuL2mrb-PpYw
